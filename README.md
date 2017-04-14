@@ -15,3 +15,4 @@ Die Wetterdaten werden alle 15 Minuten gemessen und in einer externen MySQL-Date
 
 Beispiel:  https://gussmann-berlin.de/wetter/wetterhome.php
 
+[[https://github.com/wagu1/wetterstation/blob/master/img/wetter.png|alt=Example]]
