@@ -1,4 +1,4 @@
-# wetterstation
+# Wetterstation
 Aufbau einer Wetterstation mit Raspberry Pi und mehreren Sensoren - Programmiersprache: Python
 
 ## Bauteile:
