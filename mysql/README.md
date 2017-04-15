@@ -54,7 +54,7 @@ Sicherheitsrisiko für die Datenbank darstellen.
 # Messwerte abrufen
 
 Die grafische Anzeige basiert auf https://d3js.org/d3.v3.min.js.
-In der Datei chart.js werden dazu zwei Funktionen definiert,
+In der Datei **chart.js** werden dazu zwei Funktionen definiert,
 die für die Anzeige aufgerufen werden.
 
 ```
@@ -118,8 +118,8 @@ Die Box um den Graphen mit farbigem Titel kann über css realisiert werden.
 
 <div id="graphTemperature"> ... </div>
 
-FÜr das Auslesen der Daten wird die Funktion getJSON_Data1($sqlT) verwendet,
-die in dbutil.php definiert ist. Das Ergebnis wird in 'data' gespeichert.
+FÜr das Auslesen der Daten wird die Funktion **getJSON_Data1($sqlT)** verwendet,
+die in **dbutil.php** definiert ist. Das Ergebnis wird in 'data' gespeichert.
 
 ```
 <script>
