@@ -17,3 +17,13 @@ Beispiel:  https://gussmann-berlin.de/wetter/wetterhome.php
 
 
 ![Example](img/wetter.png)
+
+## Ergänzungen
+
+
+1. Über einen kleinen OLED-Screen sollen auf Tastendruck die aktuellen Werte
+angezeigt werden.
+
+2. Ergänzung um einen Feinstaubsensor
+
+
