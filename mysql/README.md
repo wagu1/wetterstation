@@ -118,8 +118,8 @@ Die Box um den Graphen mit farbigem Titel kann über css realisiert werden.
 
 <div id="graphTemperature"> ... </div>
 
-FÜr das Auslesen der Daten wird die Funktion **getJSON_Data1($sqlT)** verwendet,
-die in **dbutil.php** definiert ist. Das Ergebnis wird in 'data' gespeichert.
+FÜr das Auslesen der Daten wird die Funktion `getJSON_Data1($sqlT)` verwendet,
+die in `dbutil.php` definiert ist. Das Ergebnis wird in `'data'` gespeichert.
 
 ```
 <script>
