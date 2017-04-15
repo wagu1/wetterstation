@@ -26,4 +26,5 @@ angezeigt werden.
 
 2. Ergänzung um einen Feinstaubsensor
 
+3. Ergänzung um den günstigeren Chip BMP280 mit angepasster Bibliothek
 
